@@ -183,6 +183,9 @@ binary_tree.delete(12, binary_tree)
 
 tree_print(binary_tree)
 
+print "\n"
+print "Moving on to the graph, finally."
+
 #################################################################################################################################
 
 #Graph implemenation
